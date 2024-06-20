@@ -1,4 +1,4 @@
 # Github-Demo
 This is my first github repository.
 <br>
-Author-Ayush Kumar
+Author-Ayush Kumar(student)
